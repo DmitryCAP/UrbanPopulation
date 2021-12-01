@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Urban population</string>
+    <string name="cities_of_the_world">Cities of the world</string>
+    <string name="cities_of_the_russia">Cities of the Russia</string>
+</resources>
